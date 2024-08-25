@@ -261,10 +261,11 @@
 	},
 	"sources": {
 		".deps/remix-tests/DioCoin.sol": {
-			"keccak256": "0xffb0e55772232b1bbfc5ba7e04b2ad40f4df94960385f5bb3ab6a621228a0e63",
+			"keccak256": "0x606c568527813d44212311c4641976ef72921a0c4c4bdfd7d7b501ed322ee4e4",
+			"license": "MIT",
 			"urls": [
-				"bzz-raw://c43bacb92a632ce25b48ef0137bdef3ed5d856799fb0dd492ce773b11705d28c",
-				"dweb:/ipfs/Qmd7xBP24SQpJxkV2d4cC6EvaxwvgF42SdYZzQA7hGHRBG"
+				"bzz-raw://77efd6ed7b2572210ce9f477bdf470e858e73bc1ab38ac04d32d5c35c81d2d22",
+				"dweb:/ipfs/QmZjrKt4FdcyUPyEJ1V3zxx8MqgNU1Je4HfMkt4SsWwJ3e"
 			]
 		}
 	},
